@@ -7,7 +7,8 @@ Mechatronics Engineer · Aerospace Researcher · Systems Builder
 
 [![Website](https://img.shields.io/badge/orbitronix.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://orbitronix.tech)
 [![Portfolio](https://img.shields.io/badge/isti.studio-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://isti.studio)
-[![Location](https://img.shields.io/badge/Bangladesh-🇧🇩-006a4e?style=for-the-badge)](https://orbitronix.tech)
+[![Location](https://img.shields.io/badge/Bangladesh-006a4e?style=for-the-badge&logoColor=white)](https://orbitronix.tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istiackmohammad@gmail.com)
 
 </div>
 
@@ -33,11 +34,11 @@ I don't build demos. I build tools that run under pressure.
 
 ## Products
 
-| Product | Description |
-|---------|-------------|
-| [**ePocket**](https://orbitronix.tech) | Unified ecommerce, POS, and business operations platform for retail |
-| [**Pharmaco**](https://orbitronix.tech) | Pharmacy operations and medicine management system |
-| [**MrGamArts POS**](https://orbitronix.tech) | Enterprise retail and multi-branch operations platform |
+| Product | Description | Status |
+|---------|-------------|--------|
+| [**ePocket**](https://orbitronix.tech) | Unified ecommerce, POS & business operations for retail | 🟢 Live |
+| [**Pharmaco**](https://orbitronix.tech) | Pharmacy operations & medicine management system | 🟢 Live |
+| [**MrGamArts POS**](https://orbitronix.tech) | Enterprise retail & multi-branch operations platform | 🟢 Live |
 
 ---
 
@@ -79,16 +80,18 @@ I don't build demos. I build tools that run under pressure.
 
 ---
 
-## GitHub Stats
+## Currently Building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istiackmohammad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiackmohammad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
-</div>
+| Project | Description |
+|---------|-------------|
+| 🔥 **Mission Control UI** | 21-page enterprise operations dashboard with real-time data |
+| ⚡ **Axon Router** | High-performance Rust router/firewall with eBPF/XDP |
+| 🌐 **NOLA 3D** | Immersive 3D property showcase platform with Matterport |
+| 🤖 **Trading Agents** | Autonomous forex & crypto trading bots with ML pipelines |
 
 ---
 
 <div align="center">
   <strong>Built to run. Built to last.</strong><br/><br/>
-  <a href="https://orbitronix.tech">orbitronix.tech</a> · <a href="https://isti.studio">isti.studio</a>
+  <a href="https://orbitronix.tech">orbitronix.tech</a> · <a href="https://isti.studio">isti.studio</a> · <a href="mailto:istiackmohammad@gmail.com">istiackmohammad@gmail.com</a>
 </div>
