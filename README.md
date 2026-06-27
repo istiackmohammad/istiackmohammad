@@ -102,18 +102,6 @@ I design, train, and deploy AI models that turn data into real-world decisions �
 
 ---
 
-## Career Path
-
-| Period | Role | Organization |
-|--------|------|--------------|
-| **Jan 2022 – Present** | Senior AI Engineer | Neural Dynamics — Architecting distributed training systems & LLM pipelines |
-| **Jun 2019 – Dec 2021** | ML Infrastructure Engineer | DataScale Labs — MLOps workflows for high-frequency trading models |
-| **Jan 2017 – May 2019** | Computer Vision Researcher | Visionary Tech — Object detection for autonomous drone navigation |
-| **Jan 2015 – Dec 2016** | Junior Data Scientist | Insight Corp — Predictive analytics on multi-terabyte datasets |
-| **Jun 2012 – Dec 2014** | Data Analyst Intern | Quantum Analytics — Statistical modeling for consumer behavior |
-
----
-
 ## Currently Building
 
 | Project | Description |
