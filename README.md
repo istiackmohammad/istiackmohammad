@@ -2,13 +2,14 @@
 
 # Istiack Mohammad
 
-**Founder & CTO · Orbitronix Technologies**  
-Mechatronics Engineer · Aerospace Researcher · Systems Builder
+**Founder & CTO · Orbitronix Technologies · Software & Systems Architect**
+Mechatronics Engineer · Aerospace Researcher · AI Engineer · Systems Builder
 
 [![Website](https://img.shields.io/badge/orbitronix.tech-000000?style=for-the-badge&logo=safari&logoColor=white)](https://orbitronix.tech)
 [![Portfolio](https://img.shields.io/badge/isti.studio-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://isti.studio)
 [![Location](https://img.shields.io/badge/Bangladesh-006a4e?style=for-the-badge&logoColor=white)](https://orbitronix.tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istiackmohammad@gmail.com)
+[![Freelance](https://img.shields.io/badge/Available_for_Freelance-28a745?style=for-the-badge&logoColor=white)](mailto:hello@isti.studio)
 
 </div>
 
@@ -18,7 +19,7 @@ Mechatronics Engineer · Aerospace Researcher · Systems Builder
 
 I build systems that work — production-grade software, autonomous robotics, and AI-powered infrastructure. Based in Bangladesh, I founded **Orbitronix Technologies** in 2023 to tackle operational complexity across enterprise, healthcare, defense, energy, and industrial sectors.
 
-I don't build demos. I build tools that run under pressure.
+I design, train, and deploy AI models that turn data into real-world decisions — from computer vision to large-scale machine learning systems. I don't build demos. I build tools that run under pressure.
 
 ---
 
@@ -29,6 +30,17 @@ I don't build demos. I build tools that run under pressure.
 | 🖥️ **Enterprise Software** | SaaS platforms, ERP systems, API infrastructure, backend architecture |
 | 🤖 **Robotics & Edge** | Autonomous systems, ROS 2, NVIDIA Jetson, ESP32, computer vision |
 | 🧠 **AI Systems** | LLM integration, RAG pipelines, intelligent automation, ML deployment |
+
+---
+
+## AI Specializations
+
+- 👁️ **Computer Vision Specialist** — Object detection, autonomous navigation, edge inference
+- 🔄 **End-to-End ML Pipelines** — From raw data to production-ready model APIs
+- 🧬 **Neural Architecture Design** — Custom architectures for domain-specific performance
+- 🚀 **Large-Scale System Deployment** — Distributed training, Kubernetes, MLflow, cloud-native
+- 📊 **Data-Driven Decision Logic** — Feature engineering, analytics, multi-terabyte datasets
+- ✨ **Generative AI & LLM Solutions** — Fine-tuning, RAG pipelines, LLM-powered applications
 
 ---
 
@@ -64,19 +76,41 @@ I don't build demos. I build tools that run under pressure.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
-**AI & Intelligence**
+**AI & Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_3.5-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-**Infrastructure**
+**Infrastructure & Cloud**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+---
+
+## Career Path
+
+| Period | Role | Organization |
+|--------|------|--------------|
+| **Jan 2022 – Present** | Senior AI Engineer | Neural Dynamics — Architecting distributed training systems & LLM pipelines |
+| **Jun 2019 – Dec 2021** | ML Infrastructure Engineer | DataScale Labs — MLOps workflows for high-frequency trading models |
+| **Jan 2017 – May 2019** | Computer Vision Researcher | Visionary Tech — Object detection for autonomous drone navigation |
+| **Jan 2015 – Dec 2016** | Junior Data Scientist | Insight Corp — Predictive analytics on multi-terabyte datasets |
+| **Jun 2012 – Dec 2014** | Data Analyst Intern | Quantum Analytics — Statistical modeling for consumer behavior |
 
 ---
 
